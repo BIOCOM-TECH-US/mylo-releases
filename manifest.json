@@ -1,8 +1,8 @@
 {
-  "version": "v0.1.0",
+  "version": "v0.1.1-test",
+  "commit": "bc59e3e98977586ddc069fde580eaa0605824343",
   "file": "firmware.bin",
-  "size": 2081216,
-  "sha256": "9e744c4361f9d798a298cfc8020c46bf5959712a74a69f75da9d292635feab2a",
-  "elf": "453c2f18ce4658ae",
-  "notes": "First tagged firmware: OpenClaw client, OTA with rollback, onboarding"
+  "size": 2096576,
+  "sha256": "6972ff619773d9c55e312a348fe849538cca602383730d7660172f6b91c2d20f",
+  "elf": "9d44b1355551b225"
 }
