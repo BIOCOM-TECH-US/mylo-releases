@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.1",
-  "commit": "b2fffb3f9fb0f2c9ae076ea9ea373eb49bb4a262",
+  "version": "v0.2.2",
+  "commit": "8818c98d8dc1b6e73d5260d4fb2dc4450992ebde",
   "file": "firmware.bin",
-  "size": 2128112,
-  "sha256": "d75d3135558915d9d3167d19b4e5e3877213c65fc61027223998e9a86d3dc71a",
-  "elf": "8efcde1be3471cc7"
+  "size": 2132496,
+  "sha256": "3fde9a738472f99747fa49214a57177ac4e36af4bcee516050a03e03a96a71da",
+  "elf": "a69aad2e4dcf02fa"
 }
